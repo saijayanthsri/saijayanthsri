@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sai Jayanth</h1>
+<h1 align="center">Hi 👋, I'm V Sri Sai Jayanth</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python Developer | SQL Learner</h3>
+<h3 align="center">Python Developer | SQL Learner</h3>
 
 <p align="center">
 Building projects, learning data analytics, and sharing my coding journey 🚀
@@ -10,7 +10,6 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 
 ## 🎓 About Me
 
-- 🎯 Aspiring Data Analyst
 - 🐍 Currently learning Python
 - 🗄️ Learning SQL & Database Management
 - 📊 Interested in Data Analytics & Data Science
@@ -56,7 +55,7 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 
 - Python
 - SQL
-- Data Analysis
+- Software Testing
 - Power BI
 - Ai and ML
 
