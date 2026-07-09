@@ -84,7 +84,6 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 
 - Advanced Python
 - Object-Oriented Programming (OOP)
-- Django
 - SQL
 - Power BI
 - AI & Machine Learning
