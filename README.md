@@ -24,8 +24,14 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 ### 👨‍💻 Languages
 `Python` `SQL`
 
+### 🌐 Frameworks
+`Django`
+
 ### 🗄️ Databases
 `MySQL`
+
+### 📊 Data Analytics
+`Power BI`
 
 ### ⚙️ Tools
 `Git` `GitHub` `VS Code`
@@ -34,18 +40,41 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 
 ## 🚀 Projects
 
+### 🚗 Vehicle Rental System (Python OOP)
+- Built using Object-Oriented Programming (OOP) concepts
+- Implemented inheritance, polymorphism, and method overriding
+- Calculated rental prices for cars and bikes
+- Handled user input with a structured class-based design
+
+### 🏷️ Blind Auction System
+- Developed a console-based blind auction application
+- Stored bids using Python dictionaries
+- Determined the highest bidder automatically
+- Implemented functions, loops, and conditional statements
+
 ### 🎮 Hangman Game
 - Random word generation
 - Life tracking system
 - ASCII art stages
 - Built with Python
 
+### 🔐 Password Generator
+- Generated secure random passwords
+- Allowed users to customize the number of letters, symbols, and numbers
+- Used Python's `random` module for password generation
+
+### 🔒 Caesar Cipher
+- Implemented encryption and decryption using the Caesar Cipher algorithm
+- Supported custom shift values
+- Applied string manipulation and looping concepts
+
 ### 🐍 Python Learning Repository
 - Variables & Data Types
+- Conditional Statements
 - Loops
 - Functions
-- Lists
-- Random module
+- Lists & Dictionaries
+- Object-Oriented Programming (OOP)
 - Mini Projects
 
 
@@ -53,11 +82,24 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 
 ## 🌱 Currently Learning
 
-- Python
+- Advanced Python
+- Object-Oriented Programming (OOP)
+- Django
 - SQL
-- Software Testing
 - Power BI
-- Ai and ML
+- AI & Machine Learning
+- Data Structures & Algorithms
+
+---
+
+## 📅 Python Learning Journey
+
+- ✅ Week 1 – Python Basics
+- ✅ Week 2 – Password Generator
+- ✅ Week 3 – Caesar Cipher
+- ✅ Week 4 – Blind Auction System
+- ✅ Week 5 – Vehicle Rental System (OOP)
+- 🚀 More projects coming every week...
 
 ---
 
