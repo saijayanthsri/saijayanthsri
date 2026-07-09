@@ -102,11 +102,17 @@ Building projects, learning data analytics, and sharing my coding journey 🚀
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saijayanthsri&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saijayanthsri&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saijayanthsri&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saijayanthsri&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saijayanthsri&theme=tokyonight"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
